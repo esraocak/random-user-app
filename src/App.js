@@ -21,7 +21,7 @@ function App() {
   const [data, setData] = useState([])
   const [value, setValue] = useState("")
   const [desc, setDesc] = useState("name")
-  const [adduser, setAdduser] = useState()
+  const [adduser, setAdduser] = useState([])
 
 
   const getUser = async () => {
@@ -93,7 +93,7 @@ function App() {
     setAdduser([...adduser,user])
   
   }
-
+console.log(adduser)
   return (
     <main>
       <div className="block bcg-orange">
