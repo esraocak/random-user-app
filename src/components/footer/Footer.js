@@ -11,7 +11,7 @@ const Footer = () => {
         rel="noopener noreferrer"
         style={{ textDecoration: "none" }}
       >
-        <code className="brand">{"<Clarusway/> "}</code>
+        <code className="brand">{"Web "}</code>
       </a>
       <img
         src={designSvg}
