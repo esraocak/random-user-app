@@ -1,6 +1,6 @@
 # Random User App
 
-## Live Link ---> https://random-user-esra.netlify.app/
+## Live Link ---> https://random-user-app-esra.netlify.app/
 
 ## Description
 
