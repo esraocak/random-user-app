@@ -19,3 +19,5 @@ Build an  Random User App using ReactJS.
 - JS
 
 - ReactJS
+
+- Data
